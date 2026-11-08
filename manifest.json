@@ -1,7 +1,7 @@
 {
   "manifest_version": 1,
-  "id": "changeme",
-  "name": "template repository",
+  "id": "wikihost",
+  "name": "wikihost repository",
   "description": "This is a template reposiory for KPM",
   "packages": {}
 }
